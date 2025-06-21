@@ -13,10 +13,10 @@ This is a simple wav file player script using WASAPI and Tkinter GUI.
 ## Developing environments
 
 - Windows 11 Pro
-- Python 3.12.7  
-  If you use python 3.13, Tkinter will not work.  
+- Python 3.13.4  
+  If you use python 3.13.0, Tkinter will not work.  
 	See details : https://github.com/python/cpython/issues/125235
-- comtypes==1.4.9
+- comtypes==1.4.11
 - pycaw==20240210
 
 
